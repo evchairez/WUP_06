@@ -77,7 +77,8 @@ table2 <- xtabs(~race + cappun, data=mydata)
 rowPerc(table2)
 colPerc(table2)
 ```
-
+  
+The summary displays that 65% of the white race was reported, 42% of the black race, and 55% of the other race were in favor were all in favor of capitol punishment. This is compared to 34% of the white race in opposition of capital punishment, 57% of the black race. and 44% of the other race. 
 
 ## Now with More data
 
