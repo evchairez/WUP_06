@@ -98,7 +98,11 @@ fisherXY(mydata$race, mydata$cappun, printAll = "TRUE")
 ```
   
 In the inferential data, we ran a CHIC square test and a Fisher test to get multiple results of each comparison. The first test, the CHIC square shared that the probability it pulled was equal to less than .000000000000000022. this number is too small. 
+The CHI squared results align with the Fisher test and the comparable results show that the probability is too low to conclude against the hypothesis. We will reject the null hypothesis on these and will continue compiling data and information for a comparative analysis. 
+
   
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+  
+
