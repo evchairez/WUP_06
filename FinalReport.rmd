@@ -104,5 +104,6 @@ The CHI squared results align with the Fisher test and the comparable results sh
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-  
+    
+To conclude this report we are looking at the compiled data and asking ourselves if it matches the hypothesis prediction. In this first area of data, we found that the number of people in the white race category overwhelmed the data for the other two races. This created a large margin of differing data and had a statistical significance. This numerical data summed it up into a two leveled comparison with each race being compared to the next. In this case, the Fisher Test and the CHI squared test verified that each result's probability was calculated. The results argued in favor of the hypothesis and showed how race had severe implications in determining if it had the significance of capital punishment. Referring to the second comparison on the second branch, we will conclude the following information in that format. 
 
