@@ -30,6 +30,7 @@ If not, then whose view differs from whom??
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->
   
+In this area we are duplicating the process done in the master branch, with more data than previous by comparing similar tests and their results. This will sort through more data by using correlating variables to data points. 
 
 # Results
 
