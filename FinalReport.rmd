@@ -68,9 +68,13 @@ The graphs are in the same format as in the master branch. The information is ta
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
-
-
-
+```{r}
+table1 <- xtabs(~race + cappun, data=mydata)
+rowPerc(table1)
+colPerc(table1)
+```
+  
+In the numerical results we see similar numbers to the master branches results. The white race with a 67% in favor of capital punishment. The black race contains 47% in favor, and the other race with 61%. This mimics the numbers of the above chart, and can be seen as well in the master branch. 
 
 
 ## Inferential Results
